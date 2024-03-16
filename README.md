@@ -1,3 +1,7 @@
+PS: 由于作者Meroser不再更新。以下源地址链接已替换为本库链接，本仓库仅保持自用状态，很少更新。EPG链接暂时不再有效
+
+--------------------------------------------以下为Meroser原文-------------------------------------------------------------------------------------
+
 <img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
 
 # Meroser's IPTV📺
@@ -32,16 +36,16 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/eternalwsq/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/eternalwsq/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/eternalwsq/IPTV/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/eternalwsq/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️EPG
 
